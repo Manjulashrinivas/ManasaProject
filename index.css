@@ -1,0 +1,56 @@
+*{
+    padding:0px;
+    margin:0px;
+    }
+    .navbar-brand{
+    color:white;
+    font-family:cursive;
+    font-size:30px;
+    }
+    .nav-link{
+    color:white;
+    margin-left:50px;
+    font-family:red serifs;
+    }
+    h2{
+    color:black;
+    background-color:pink;
+    }
+    h5{
+    text-align:justify;
+    }
+    h3{
+    text-align:center;
+    background-color:pink;
+    }
+    
+    #footer {
+        width: 100%;
+        background-color: green;
+        margin-top: 10px;
+    }
+    
+    #footer h1 {
+        color: white;
+        padding-top: 30px;
+    }
+    
+    #footer p {
+        color: white;
+    }
+    
+    .icons i {
+        color: rgba(238, 224, 208);
+        font-size: 30px;
+        cursor: pointer;
+    }
+    
+    .credite {
+        color: white;
+    }
+    
+    .copyright {
+        color: white;
+        margin-top: 20px;
+    }
+    
